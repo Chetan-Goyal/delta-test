@@ -1,0 +1,11 @@
+{
+  "name": "delta-test",
+  "version": "1.0.0",
+  "description": "Write a program that calculates the price of a basket of shopping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
